@@ -8,14 +8,14 @@ Octoon provides a modern and powerful ECS framework to make development simple. 
 <img style="vertical-align: top;" src="./screenshot1.png" alt="logo">
 <img style="vertical-align: top;" src="./screenshot2.png" alt="logo">
 
-Supported compilers:
+Supported compilers
 ------
 * Visual Studio 2017 (Only tested on 15.5.7 version)
 * GNU GCC (Only tested on 5.4.0, 6.2.0, 7.3.0, 8.1.0 version)
 * Clang & LLVM (Only tested on 5.0.0 version)
 * Emscripten (Only tested on 1.37.40)
 
-Support platforms:
+Support platforms
 ------
 * Windows (Only tested on XP, Vista, 7, 8, 10)
 * Linux (Only tested on Ubuntu 16.10, Ubuntu 18.04, Centos 7.3)
@@ -24,10 +24,10 @@ Support platforms:
 * ios (Future)
 * mac (Future)
 
-Support rendering backends:
+Support rendering backends
 ------
-* OpenGL 330
-* OpenGL 450
+* OpenGL 3.3
+* OpenGL 4.5
 * OpenGL ES 2.0
 * OpenGL ES 3.0
 * OpenGL ES 3.2
